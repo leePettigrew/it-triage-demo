@@ -1,0 +1,13 @@
+# backend (Python)
+backend/venv/
+backend/__pycache__/
+backend/*.py[cod]
+backend/.env
+
+# frontend (Node)
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# IDE configs
+*.idea/
