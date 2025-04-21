@@ -1,7 +1,11 @@
-fastapi
+fastapi~=0.115.12
 uvicorn[standard]
-celery[redis]
+celery[redis]~=5.5.1
 redis
-sqlalchemy
-pydantic
-python-socketio
+sqlalchemy~=2.0.40
+pydantic~=2.11.3
+python-socketio~=5.13.0
+transformers>=4.34.0
+torch>=2.0.0
+numpy~=2.2.5
+openai~=1.75.0
