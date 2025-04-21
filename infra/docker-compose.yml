@@ -1,0 +1,36 @@
+version: "3.8"
+
+services:
+  redis:
+    image: redis:6-alpine
+    ports:
+      - "6379:6379"
+
+  backend:
+    build:
+      context: ../backend
+      dockerfile: Dockerfile
+    command: uvicorn server:asgi_app --host 0.0.0.0 --port 8000
+    volumes:
+      - ../backend:/app
+    environment:
+      REDIS_URL: redis://redis:6379/0
+      DATABASE_URL: sqlite:///./tickets.db
+    ports:
+      - "8000:8000"
+    depends_on:
+      - redis
+
+  worker:
+    build:
+      context: ../backend
+      dockerfile: Dockerfile
+    # invoke Celery via python -m so the CLI is always available
+    command: python -m celery -A tasks worker --loglevel=info
+    volumes:
+      - ../backend:/app
+    environment:
+      REDIS_URL: redis://redis:6379/0
+      DATABASE_URL: sqlite:///./tickets.db
+    depends_on:
+      - redis
