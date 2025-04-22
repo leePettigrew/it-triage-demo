@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Can't connect to the Wi-Fi",
+    "description": "I can see the Wi-Fi network on my laptop, but when I try to connect it says 'unable to join'.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Internet is really slow today",
+    "description": "Pages are taking forever to load and video calls keep freezing. It was fine yesterday.",
+    "team": "Network Team"
+  },
+  {
+    "title": "VPN keeps dropping",
+    "description": "I connect to the VPN and it works for a few minutes, then suddenly disconnects without warning.",
+    "team": "Network Team"
+  },
+  {
+    "title": "No internet access on guest Wi-Fi",
+    "description": "I connected to the guest Wi-Fi but it says 'connected, no internet'. Other people seem to be fine.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Ethernet port not working",
+    "description": "I plugged in the Ethernet cable and nothing happens. No lights, no connection. Tried a different cable too.",
+    "team": "Network Team"
+  },
+  {
+    "title": "My desktop can’t find the network printer",
+    "description": "I’m trying to print but the printer doesn’t show up anymore. It used to be there last week.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Random disconnects from the network",
+    "description": "Every couple hours my PC says 'network disconnected' for no reason. I have to manually reconnect each time.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Wired connection slower than Wi-Fi",
+    "description": "I plugged into Ethernet for better speed but it’s actually slower than my wireless connection.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Can’t access shared drive",
+    "description": "I get a 'network path not found' error when trying to open the shared folder. It was working fine last week.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Network keeps switching between access points",
+    "description": "My laptop switches between two Wi-Fi networks constantly. It disrupts my connection every few minutes.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Wi-Fi signal is very weak in my office",
+    "description": "The Wi-Fi works but is super weak in my corner of the office. Calls keep dropping.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Getting IP conflict warning",
+    "description": "I keep getting a pop-up that says 'IP address conflict with another system on the network'. Not sure what to do.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Unable to ping gateway",
+    "description": "I can’t access the internet and when I ping the default gateway, it times out. I’ve rebooted my machine.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Zoom works but browser doesn’t",
+    "description": "I’m on the network and Zoom calls work, but Chrome and Edge won’t load any pages.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Wi-Fi says 'connected, secured' but no internet",
+    "description": "I'm on the main office Wi-Fi and it says I’m connected, but I can’t browse or do anything online.",
+    "team": "Network Team"
+  },
+  {
+    "title": "VPN connects but can't access internal tools",
+    "description": "I can connect to the VPN, but none of the internal tools or drives are working afterward.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Office printer not reachable over network",
+    "description": "The printer in room 3B doesn’t respond. It says 'offline' when I try to print.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Teams drops call every few minutes",
+    "description": "I’m using a wired connection but Teams still drops my calls every 5–10 minutes.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Can’t connect to any shared folders",
+    "description": "None of the shared folders open anymore. I get an 'access denied' or 'not found' error.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Laptop won't reconnect after sleep",
+    "description": "When I wake my laptop up from sleep, it doesn’t reconnect to Wi-Fi. I have to reboot every time.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Ping is too high during video calls",
+    "description": "My connection works, but latency is crazy high during Zoom and Google Meet calls. Makes it impossible to communicate.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Wi-Fi keeps asking for password repeatedly",
+    "description": "Even after entering the correct password, the network keeps asking me to enter it again and again.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Network drive mapping not working",
+    "description": "My drive mapping disappears after reboot and doesn’t reconnect automatically like it used to.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Access Point rebooted on its own",
+    "description": "My Wi-Fi dropped and I noticed the access point above me restarted. This has happened twice today.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Ethernet jack loose or damaged",
+    "description": "I have to wiggle the Ethernet cable to get it to connect. Might be a loose port in the wall.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Wi-Fi blocked certain websites",
+    "description": "I can’t access a few websites on Wi-Fi that I could on mobile data. I don’t think they should be blocked.",
+    "team": "Network Team"
+  },
+  {
+    "title": "No internet after moving desks",
+    "description": "Ever since I moved desks, I haven’t been able to connect to Wi-Fi or Ethernet. Worked fine at my old spot.",
+    "team": "Network Team"
+  },
+  {
+    "title": "My IP keeps changing unexpectedly",
+    "description": "I noticed my IP address changes every day. It’s messing with my remote access tools.",
+    "team": "Network Team"
+  },
+  {
+    "title": "My MAC address is being blocked",
+    "description": "I think my laptop’s MAC address is being blocked by the firewall. I can’t connect unless I use another device.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Packet loss during upload",
+    "description": "I’ve been seeing a lot of packet loss when uploading files to SharePoint. Download seems fine.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Network cable gets unplugged message",
+    "description": "Every now and then I get a pop-up that the network cable was unplugged, even though it’s still connected.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Can’t remote desktop into my work machine",
+    "description": "I can’t RDP into my office PC from home anymore. It just times out after a minute.",
+    "team": "Network Team"
+  },
+  {
+    "title": "VoIP phone has no dial tone",
+    "description": "My desk phone shows 'network unavailable' and there's no dial tone. Other phones nearby seem fine.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Wi-Fi auto-connect not working",
+    "description": "I always have to manually pick the network even though it’s set to auto-connect.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Teams status not updating",
+    "description": "My Teams status doesn’t change unless I restart the app. Might be a network sync issue?",
+    "team": "Network Team"
+  },
+  {
+    "title": "Can't access certain internal websites",
+    "description": "A few of the internal sites are showing 'connection refused'. Others work fine.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Captive portal not showing on guest Wi-Fi",
+    "description": "When guests connect to our Wi-Fi, the login page doesn’t appear anymore. Just stays disconnected.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Firewall might be blocking updates",
+    "description": "My antivirus can’t update and says it’s being blocked. Could it be the firewall?",
+    "team": "Network Team"
+  },
+  {
+    "title": "Slow download speeds on wired connection",
+    "description": "Even though I’m wired in, I’m getting less than 10Mbps. Should be much faster.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Mobile devices not connecting to Wi-Fi",
+    "description": "My phone and tablet both get 'authentication error' when trying to join the Wi-Fi.",
+    "team": "Network Team"
+  },
+  {
+    "title": "VoIP audio cutting in and out",
+    "description": "During calls, my VoIP phone audio keeps cutting out. People say I sound robotic.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Can’t join meetings from Citrix",
+    "description": "When using Citrix, Zoom and Teams won’t connect. Seems like a network issue from within the session.",
+    "team": "Network Team"
+  },
+  {
+    "title": "DNS resolution failing intermittently",
+    "description": "Sometimes websites don’t load and I get 'DNS not resolved'. A refresh usually fixes it, but it keeps happening.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Wi-Fi keeps dropping after update",
+    "description": "Ever since my system updated, I keep getting kicked off Wi-Fi. Didn’t happen before.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Network switch might be down",
+    "description": "Multiple people in our row lost connectivity at the same time. Could the switch be down?",
+    "team": "Network Team"
+  },
+  {
+    "title": "Proxy is blocking external apps",
+    "description": "A couple of third-party apps say 'proxy authentication required'. I didn’t change any settings.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Losing access to OneDrive on VPN",
+    "description": "As soon as I connect to the VPN, OneDrive says it’s offline. Disconnecting restores access.",
+    "team": "Network Team"
+  },
+  {
+    "title": "Wi-Fi icon missing after reboot",
+    "description": "After restarting, my Wi-Fi icon is gone and I can't see any wireless networks.",
+    "team": "Network Team"
+  }
+]

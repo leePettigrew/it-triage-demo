@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Can't open Microsoft Word",
+    "description": "Whenever I try to launch Word, it just flashes and closes immediately. I haven’t changed anything recently.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Outlook keeps asking for my password",
+    "description": "Every time I open Outlook, it keeps prompting me to enter my password even though I checked 'remember me'.",
+    "team": "Software Team"
+  },
+  {
+    "title": "VPN not connecting",
+    "description": "I can’t connect to the VPN on my laptop. It just says 'connection failed' with no other error message.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Microsoft Teams keeps crashing",
+    "description": "Teams opens for a few seconds then freezes and crashes. I already reinstalled it once.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Getting error when saving Excel file",
+    "description": "When I try to save my spreadsheet, Excel says 'Document not saved'. I’m working on a shared drive.",
+    "team": "Software Team"
+  },
+  {
+    "title": "My app won’t stop updating",
+    "description": "Adobe Reader keeps showing 'installing updates' every time I open it. It never finishes.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Software update broke my app",
+    "description": "After updating to the latest version, my finance tool no longer opens. It worked fine yesterday.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Spell check not working in Word",
+    "description": "I typed a few pages and nothing is underlined even though I’m sure there are typos. I checked settings but couldn’t fix it.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Can’t install the new version of Chrome",
+    "description": "I get an error when trying to update Chrome. Something about missing permissions.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Slack isn’t loading any messages",
+    "description": "Slack opens but just shows a spinning icon. I can’t see or send anything.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Can’t export report from our CRM",
+    "description": "When I try to export my weekly report, I get a '504 timeout' error. It worked last week.",
+    "team": "Software Team"
+  },
+  {
+    "title": "My screen recording software crashes",
+    "description": "I use OBS to record training sessions but now it crashes on launch with some DirectX error.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Zoom doesn’t detect my camera",
+    "description": "Zoom says there's no camera found, but it works fine in other apps like Teams.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Access denied to internal system",
+    "description": "I tried logging into our inventory system and it says 'access denied'. I had access last week.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Outlook rules not working",
+    "description": "I created some inbox rules to move emails but none of them are running. I’ve tried restarting Outlook.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Can’t open PDFs in browser anymore",
+    "description": "PDFs used to open in Chrome but now they just download instead. I didn’t change anything.",
+    "team": "Software Team"
+  },
+  {
+    "title": "License key not accepted",
+    "description": "I tried entering the new license key for our data tool but it says 'invalid key format'. I copied it exactly.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Software install stuck at 0%",
+    "description": "Trying to install the accounting app, but it just sits at 0% and never starts.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Getting Java errors in business app",
+    "description": "I’m getting a Java exception when launching our project management tool. Not sure what it means.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Can’t log in to payroll system",
+    "description": "My login for the payroll portal isn’t working, even though I’m using the correct username and password.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Clipboard not working in remote desktop",
+    "description": "I can't copy and paste between my local machine and the remote desktop session anymore.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Visual Studio won’t build project",
+    "description": "I get a build error in Visual Studio even though the code hasn’t changed. It worked yesterday.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Error code 0x80070005 during update",
+    "description": "Trying to update my laptop and I keep getting error 0x80070005. I have plenty of space.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Cannot print from Chrome",
+    "description": "When I try to print anything from Chrome, it crashes. Printing from Word works fine.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Autocorrect turning off randomly",
+    "description": "Autocorrect in Word turns off on its own after a while. I have to keep re-enabling it.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Spell check language is wrong",
+    "description": "Word is checking everything in French even though I want English. I tried changing the language but it reverts.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Can’t save changes in Excel",
+    "description": "I made edits to a shared spreadsheet but get an error when saving. Something about 'locked for editing'.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Screen sharing not working in Teams",
+    "description": "When I click share screen in Teams, nothing happens. I've already restarted the app.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Form submission errors in SharePoint",
+    "description": "Trying to submit a form on our SharePoint site but it keeps saying 'required fields missing' even when they’re filled.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Password manager extension is gone",
+    "description": "My password manager Chrome extension disappeared after a reboot. I didn’t uninstall anything.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Google Drive won’t sync",
+    "description": "Files I upload to Google Drive aren’t syncing to my desktop folder. It says 'sync paused' but won’t resume.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Search function broken in Outlook",
+    "description": "I can't search for old emails in Outlook. The search bar says 'results may be incomplete'.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Getting 'app not responding' in Slack",
+    "description": "Slack stops responding every time I try to join a call. It’s fine for chatting though.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Microsoft Store won’t open",
+    "description": "I need to download something from the Microsoft Store but it won’t open at all.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Teams keeps signing me out",
+    "description": "I have to log back into Teams every time I reboot. It used to stay logged in.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Zoom background blur not available",
+    "description": "I can’t enable the background blur in Zoom. It says my system doesn’t support it but it worked last week.",
+    "team": "Software Team"
+  },
+  {
+    "title": "No sound during Teams calls",
+    "description": "I can’t hear anything in Teams calls, even though my speakers work fine in other apps.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Shortcut icons disappeared from desktop",
+    "description": "All my app shortcuts vanished from my desktop after the last update. I didn’t delete anything.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Gmail shows wrong timezone",
+    "description": "Emails are timestamped hours off. I checked my PC time and it’s correct, so not sure what’s going on.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Adobe PDF export not working",
+    "description": "When I try to export a Word file as PDF using Adobe, it says 'conversion failed'.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Toolbar missing in Excel",
+    "description": "My Excel toolbar disappeared and I can’t get it back. Tried right-clicking but nothing worked.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Random popups from an unknown app",
+    "description": "Every few hours I get a popup saying 'Setup.exe wants to make changes'. I don’t know what app it is.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Google Calendar not syncing with Outlook",
+    "description": "My events in Google Calendar aren’t showing up in Outlook anymore. It used to sync both ways.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Autocomplete suggestions missing in Excel",
+    "description": "Excel used to auto-suggest values I typed before, but that feature just stopped working.",
+    "team": "Software Team"
+  },
+  {
+    "title": "App keeps resetting to default settings",
+    "description": "Every time I open our reporting tool, it goes back to default view. I save my settings but they don’t stick.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Can’t paste images into Word",
+    "description": "I copied an image from the web but Word won’t let me paste it. It just pastes blank space.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Receiving duplicate notifications from Teams",
+    "description": "I get every Teams notification twice. It's really distracting and I don’t know why it’s happening.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Zoom keeps defaulting to wrong mic",
+    "description": "Every time I start a Zoom call, it uses the wrong mic. I change it, but next call it resets again.",
+    "team": "Software Team"
+  },
+  {
+    "title": "Online forms not saving progress",
+    "description": "The compliance training forms don’t save my answers. When I return later, it’s like I never started.",
+    "team": "Software Team"
+  }
+]

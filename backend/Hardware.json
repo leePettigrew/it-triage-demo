@@ -1,0 +1,247 @@
+[
+  {
+    "title": "My laptop won't turn on",
+    "description": "I have a Dell XPS 13 and it suddenly won't power on. I plugged in the charger, but there's no light or sound.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Weird beeping when I start my computer",
+    "description": "Every time I power on my Lenovo ThinkPad, it makes a few loud beeps and nothing shows up. I don\u2019t know what that means.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Monitor keeps turning black randomly",
+    "description": "My Dell monitor goes black for a few seconds and then comes back. I tried reconnecting the HDMI cable but it didn't help.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Keyboard isn't working on my Surface",
+    "description": "I attached the keyboard cover to my Surface Pro 7 but it doesn't respond when I type. I restarted it and nothing changed.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "My external hard drive is clicking",
+    "description": "I connected my Seagate hard drive and it just makes a clicking sound. It doesn't show up on my computer at all.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Printer says it's ready but won\u2019t print",
+    "description": "My HP LaserJet shows it's online and has ink, but every time I try to print, nothing comes out. I've restarted it a few times.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop fan is super loud all the time",
+    "description": "My HP EliteBook fan runs loud constantly, even when I'm just browsing the web. It\u2019s really distracting.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Mouse keeps disconnecting randomly",
+    "description": "My Logitech MX Master keeps freezing for a few seconds and then starts working again. I tried using a different USB port but it\u2019s the same.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Touchscreen stopped working",
+    "description": "The touchscreen on my Dell laptop used to work fine, but now it doesn't respond at all. I haven\u2019t dropped it or anything.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Screen backlight flickers at low brightness",
+    "description": "When I lower the brightness on my Lenovo Yoga, the screen starts flickering. It\u2019s fine at full brightness.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Battery is draining way too fast",
+    "description": "My MacBook Pro loses charge really quickly, like from 100% to 30% in under two hours. I'm just using basic apps.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "My second screen isn't working",
+    "description": "I connected my second monitor using HDMI, but my laptop isn't detecting it. I even restarted everything but no luck.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Burning smell from my PC",
+    "description": "I smelled something weird, kind of like burning plastic, coming from the back of my desktop. I shut it down immediately.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Keys are missing from my keyboard",
+    "description": "Some of the keys on my laptop keyboard just popped off. I don't know how to put them back or if they\u2019re broken.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop stuck in a BIOS loop",
+    "description": "I updated the BIOS on my HP laptop and now it just restarts over and over. I can't get to Windows.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Webcam isn't being detected anymore",
+    "description": "My webcam used to work in Teams, but now it's like it doesn\u2019t exist. It\u2019s not even in Device Manager.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop hinge is coming loose",
+    "description": "The hinge on my laptop is starting to come apart. It still opens and closes, but it\u2019s getting worse every day.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "My screen is cracked after a small drop",
+    "description": "I dropped my Surface from the sofa and now there\u2019s a crack across the screen. It still works but looks bad.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "The dock isn\u2019t charging my laptop",
+    "description": "I plugged my HP laptop into the docking station, but it\u2019s not charging. I double-checked the cable and power source.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Strange lines on the display",
+    "description": "My monitor has weird vertical lines on the screen that won't go away. I tried a different cable but it\u2019s still there.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "USB ports not working",
+    "description": "None of the USB ports on my Dell laptop are working anymore. I tried plugging in my phone and mouse, nothing happens.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Projector not turning on",
+    "description": "I tried turning on the Epson projector in Room 204 and nothing happened. I checked the power cable and outlet.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "SSD not showing up in BIOS",
+    "description": "I installed a new SSD in my desktop but it's not showing up in BIOS. I reseated it twice already.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Noise coming from inside laptop",
+    "description": "I hear a faint grinding noise coming from inside my Lenovo laptop. Not sure if it\u2019s the fan or something else.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop keeps shutting down suddenly",
+    "description": "My laptop just powers off out of nowhere even if the battery is full. It\u2019s happened 3 times today.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Can't eject USB drive",
+    "description": "I try to eject my USB drive but it says it's in use, even when nothing is open. I\u2019m worried about losing files.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Built-in speakers not working",
+    "description": "No sound comes out of my laptop speakers. I checked the volume and device settings but still nothing.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop gets very hot even when idle",
+    "description": "Even when I\u2019m not doing anything, my laptop gets really warm. I\u2019m not sure if the fan is broken.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Can't power on docking station",
+    "description": "The docking station for my Dell laptop doesn\u2019t seem to be powering on. None of the connected devices light up.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Random black screen while working",
+    "description": "My screen just goes black for a second and comes back. It\u2019s random and happens several times a day.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "The fingerprint scanner isn't responding",
+    "description": "I used to log in with my fingerprint but now nothing happens when I touch the sensor. I didn\u2019t change anything.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop not charging beyond 80%",
+    "description": "My ThinkPad won\u2019t charge above 80%. I tried different outlets and chargers but same thing.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Built-in camera very blurry",
+    "description": "The image from my laptop webcam is super blurry. I cleaned the lens but it didn\u2019t help.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Hard drive makes loud buzzing sound",
+    "description": "My desktop's hard drive makes a loud buzz when it's running. I\u2019m afraid it\u2019s about to fail.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Mouse pointer jumps around",
+    "description": "My external mouse is acting weird. The pointer jumps all over the place even when I\u2019m not moving it.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop won\u2019t wake from sleep",
+    "description": "When I close the lid and open it later, the screen stays black. I have to do a hard reboot every time.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Battery percentage stuck at 56%",
+    "description": "My MacBook battery has been stuck at 56% for over an hour. It\u2019s plugged in and says charging.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Display has yellow tint",
+    "description": "Everything on my monitor has a yellowish color. I tried adjusting settings but it doesn\u2019t go away.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Ethernet port seems loose",
+    "description": "The Ethernet cable won\u2019t stay in the port properly. It falls out with the slightest movement.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop shuts down when unplugged",
+    "description": "As soon as I unplug my HP laptop, it shuts down even though it says battery is 100%.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Volume buttons not working",
+    "description": "The volume keys on the keyboard don\u2019t do anything anymore. I can still change it from the tray.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Bluetooth keeps turning off",
+    "description": "I connect my wireless headset but it keeps disconnecting after a few minutes. Bluetooth just shuts off on its own.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop trackpad stopped clicking",
+    "description": "My trackpad still moves the pointer but clicking doesn\u2019t register unless I tap. I used to press down on it.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "No power light on charging",
+    "description": "When I plug in my charger, there\u2019s no light or sound. I\u2019ve tried different outlets but still nothing.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop makes popping sound from speaker",
+    "description": "There\u2019s a random popping noise coming from the left speaker. It\u2019s really distracting during calls.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "USB-C port isn\u2019t charging my phone",
+    "description": "I used to charge my phone through my laptop's USB-C port but now it doesn\u2019t work. Tried different cables.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "The screen is way too dim",
+    "description": "My laptop screen is super dark even though I turned the brightness all the way up.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "Laptop won\u2019t shut down completely",
+    "description": "When I shut down my computer, the screen turns off but the fan and lights stay on until I hold the power button.",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "My laptop is really warm",
+    "description": "Laptop is hot to the touch",
+    "team": "Hardware Team"
+  }
+]

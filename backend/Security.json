@@ -1,0 +1,247 @@
+[
+  {
+    "title": "I think I clicked on a phishing link",
+    "description": "I got an email that looked like it was from IT, asking me to log in. I clicked the link and entered my info. Now I\u2019m worried it was fake.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Got a login alert from another country",
+    "description": "I just received an alert that my account was accessed from Russia. I wasn\u2019t online at the time and I\u2019m in Dublin.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Antivirus keeps popping up warnings",
+    "description": "Every time I open Chrome, my antivirus says it blocked a threat. I didn\u2019t install anything recently.",
+    "team": "Security Team"
+  },
+  {
+    "title": "My password isn\u2019t being accepted",
+    "description": "I tried logging in and it says my password is incorrect. I\u2019m sure I typed it right, even tried different keyboards.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Someone reset my password without me",
+    "description": "I just got a password reset email and didn\u2019t request it. Is someone trying to access my account?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Received spam from a coworker\u2019s email",
+    "description": "I got a strange message from a colleague asking me to buy gift cards. I think their email might be compromised.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Two-factor authentication isn\u2019t working",
+    "description": "My authentication code isn\u2019t being accepted when I try to log in. I\u2019ve double-checked the time and app.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Accidentally opened a strange attachment",
+    "description": "I opened a file from someone I don\u2019t know. It was a .zip and now my computer is acting weird.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Pop-up says my system is infected",
+    "description": "I got a big red warning saying my system is infected and to call a number. It won\u2019t go away.",
+    "team": "Security Team"
+  },
+  {
+    "title": "BitLocker asking for recovery key",
+    "description": "After a Windows update, BitLocker is asking me for a recovery key. I don\u2019t know where to find it.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Can\u2019t access secure portal with new phone",
+    "description": "I got a new phone and now I can\u2019t log into the secure company portal. It says I need to reconfigure 2FA.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Locked out after failed login attempts",
+    "description": "I accidentally typed my password wrong too many times and now I\u2019m locked out of my account.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Email flagged as external but it\u2019s internal",
+    "description": "I received an email from a colleague, but it\u2019s flagged as external. Could that mean something\u2019s wrong?",
+    "team": "Security Team"
+  },
+  {
+    "title": "My account keeps getting logged out",
+    "description": "I keep getting signed out of systems randomly. I think someone else might be logged into my account somewhere.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Security software won\u2019t update",
+    "description": "Our endpoint protection says it\u2019s out of date and fails when I try to update it manually.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Browser extensions blocked",
+    "description": "I can\u2019t install the password manager extension anymore. It says the admin blocked it. Was this on purpose?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Suspicious process running in background",
+    "description": "I noticed a weird process in Task Manager using up CPU. It has a random name I\u2019ve never seen before.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Files missing from OneDrive",
+    "description": "Some files I uploaded to OneDrive are gone, and I didn\u2019t delete them. Could this be a breach?",
+    "team": "Security Team"
+  },
+  {
+    "title": "USB ports disabled",
+    "description": "None of my USB drives work anymore. I think it was a recent security policy but I need access to my backup drive.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Need to report suspicious phone call",
+    "description": "Someone called claiming to be from IT and asked me for my password. I hung up but wanted to report it.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Unrecognized device in login history",
+    "description": "I checked my Microsoft account activity and saw a login from an unknown Android device.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Locked out of admin tools",
+    "description": "After a security update, I can\u2019t access my admin console anymore. Says I need elevated permissions.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Phishing email got past spam filter",
+    "description": "I received a phishing email that wasn\u2019t caught by the spam filter. It had a fake invoice attachment.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Can't complete security awareness training",
+    "description": "I tried doing the cybersecurity training but the page won\u2019t load. I\u2019m stuck on the quiz screen.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Ransomware alert appeared briefly",
+    "description": "I saw a popup that mentioned ransomware but it disappeared. I\u2019m not sure if it was real or not.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Unusual login times shown in reports",
+    "description": "Our weekly report shows logins at 3am from my account. I definitely wasn\u2019t online then.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Need to reset my MFA device",
+    "description": "I lost access to my MFA app after resetting my phone. Can I get help setting it up again?",
+    "team": "Security Team"
+  },
+  {
+    "title": "My credentials were shared accidentally",
+    "description": "I accidentally pasted my password into a Teams chat. I\u2019ve changed it already, but wanted to let someone know.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Can\u2019t log in after policy update",
+    "description": "After the last security policy push, I can\u2019t log in. It says I don\u2019t meet the new compliance settings.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Suspicious login attempt blocked",
+    "description": "I got a notification that someone tried to log into my account but was blocked. Just checking in.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Laptop flagged for high-risk behavior",
+    "description": "I got a notice that my laptop was flagged by the security team. Not sure what I did.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Popup asking me to disable antivirus",
+    "description": "I installed some software and it asked me to turn off my antivirus. That seems sketchy so I stopped.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Can\u2019t access encrypted folder",
+    "description": "My encrypted folder says 'access denied'. I haven\u2019t changed anything with my user account.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Security alert on Chrome extension",
+    "description": "Chrome says one of my extensions was removed for violating policies. I didn\u2019t install anything unusual.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Compliance scan failed",
+    "description": "I got a notification that my laptop failed a compliance check. Not sure how to fix it.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Requesting whitelist for secure app",
+    "description": "I\u2019m using a secure file transfer app but it\u2019s being blocked by the firewall. Can it be whitelisted?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Email attachments getting stripped",
+    "description": "Attachments in my outgoing emails are disappearing. Is this a security filter or something else?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Can\u2019t share files via Teams anymore",
+    "description": "Whenever I try to upload a file in Teams, it says blocked by policy. This just started recently.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Need exception for security software",
+    "description": "Our antivirus keeps blocking our test app. We need a temporary exception so we can do QA.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Laptop won't boot after full disk encryption",
+    "description": "I enabled encryption on my laptop and now it won\u2019t boot. Stuck at a recovery screen.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Found unapproved software installed",
+    "description": "I noticed some software on my computer that I never installed. Could it have been pushed remotely?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Password expiration caught me off guard",
+    "description": "My password expired and I wasn\u2019t warned ahead of time. Can I get a reset quickly?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Security camera portal won\u2019t load",
+    "description": "I can\u2019t access the building camera feed from my browser anymore. Is the portal down or blocked?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Requesting temporary admin access",
+    "description": "I need admin rights temporarily to install a device driver for a secure dongle. Can I get approval?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Laptop flagged as jailbroken",
+    "description": "I got a compliance message saying my device is jailbroken, but it\u2019s just a normal Windows laptop.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Need to report a lost access badge",
+    "description": "I lost my company badge that has RFID access. Just wanted to make sure it's disabled for security.",
+    "team": "Security Team"
+  },
+  {
+    "title": "Got logged out during critical work",
+    "description": "Security session timeout logged me out while I was filling a form. Is there a way to extend it?",
+    "team": "Security Team"
+  },
+  {
+    "title": "Need to revoke access for ex-employee",
+    "description": "One of our team members left last Friday. Can we make sure their access is fully removed?",
+    "team": "Security Team"
+  },
+  {
+    "title": "I need my keycard to be re authorised",
+    "description": "my keycard is about to expire and i need access the 4th floor",
+    "team": "Security Team"
+  }
+]

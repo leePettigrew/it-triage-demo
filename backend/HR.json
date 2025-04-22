@@ -1,0 +1,257 @@
+[
+  {
+    "title": "Can\u2019t access my payslip",
+    "description": "I tried logging into the HR portal to view my payslip but it says 'unauthorized access'. I could access it last month.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Incorrect tax details on my profile",
+    "description": "I checked my employee profile and it has the wrong tax credits listed. Can someone update it for me?",
+    "team": "HR Team"
+  },
+  {
+    "title": "Need to update emergency contact",
+    "description": "I recently changed my emergency contact and want to update it in the system. Not sure where to do that.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Missing annual leave from balance",
+    "description": "My annual leave balance seems off. It\u2019s missing 3 days I booked last quarter but never took.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Can\u2019t submit timesheet",
+    "description": "I filled out my timesheet for this week but the submit button is greyed out. I\u2019ve double-checked everything.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Benefits portal not loading",
+    "description": "When I try to open the benefits portal, it just shows a white screen and won\u2019t load anything.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Requesting copy of employment contract",
+    "description": "I need a digital copy of my signed employment contract for my mortgage application. Can you send it?",
+    "team": "HR Team"
+  },
+  {
+    "title": "Paternity leave application not saving",
+    "description": "I tried submitting my paternity leave request but the form keeps resetting every time I click save.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Incorrect job title on my profile",
+    "description": "My HR profile lists me as 'Analyst' but I was promoted to 'Senior Analyst' two months ago.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Login issues with the onboarding portal",
+    "description": "A new hire in my team can\u2019t access the onboarding system. It says their email isn't recognized.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Need confirmation of employment letter",
+    "description": "I\u2019m applying for a visa and need a letter confirming my employment and salary. Can HR provide that?",
+    "team": "HR Team"
+  },
+  {
+    "title": "HR system keeps logging me out",
+    "description": "The HR portal logs me out after just a couple of minutes even when I\u2019m using it actively.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Health insurance details not updated",
+    "description": "I changed my insurance plan during open enrollment but the HR portal still shows the old one.",
+    "team": "HR Team"
+  },
+  {
+    "title": "New employee not showing in directory",
+    "description": "A new hire joined last week but they\u2019re not showing up in the internal directory yet.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Can\u2019t change my bank account details",
+    "description": "I\u2019m trying to update my bank details for payroll, but the system gives an error when I save.",
+    "team": "HR Team"
+  },
+  {
+    "title": "System won\u2019t accept my leave request",
+    "description": "I\u2019m trying to book annual leave for next month but it says I\u2019m not eligible for those dates.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Probation period still showing as active",
+    "description": "My probation ended two months ago but the system still shows it as ongoing. Could someone check?",
+    "team": "HR Team"
+  },
+  {
+    "title": "I didn\u2019t receive my payslip email",
+    "description": "Normally I get an email when my payslip is ready but I didn\u2019t receive it this time.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Unable to upload profile picture",
+    "description": "I tried updating my profile photo in the HR system but the upload keeps failing.",
+    "team": "HR Team"
+  },
+  {
+    "title": "W-2 document won\u2019t download",
+    "description": "I\u2019m trying to download my W-2 from the portal but it just spins and never loads.",
+    "team": "HR Team"
+  },
+  {
+    "title": "HR system showing wrong manager",
+    "description": "It still lists my old manager in the system even though I moved teams last month.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Unable to complete training module",
+    "description": "The compliance training video won\u2019t play. I\u2019m stuck on 0% completion and can\u2019t move on.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Promotion not reflected in HR records",
+    "description": "I was promoted recently but the HR portal still shows my old title and pay grade.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Maternity leave request not visible to manager",
+    "description": "I submitted my leave request but my manager says they can\u2019t see it in their system.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Incorrect PTO balance after return from leave",
+    "description": "After returning from medical leave, my PTO balance reset to zero. I had hours left before.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Duplicate profile in HR system",
+    "description": "There appear to be two profiles for me in the HR system, and it\u2019s causing confusion with reporting.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Can\u2019t access year-end review form",
+    "description": "I need to complete my performance review but the form just gives an 'access denied' error.",
+    "team": "HR Team"
+  },
+  {
+    "title": "New benefits not showing post-promotion",
+    "description": "I was told I\u2019d have new benefits with my new role but they\u2019re not visible in the system yet.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Can\u2019t reset password for HR portal",
+    "description": "I clicked 'forgot password' but the email never arrives. I\u2019ve checked my spam folder too.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Need to request sabbatical leave",
+    "description": "Is there a form or process to apply for sabbatical? I don\u2019t see anything in the portal.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Pay discrepancy for overtime",
+    "description": "My last paycheck seems to be missing some overtime hours. Can someone take a look?",
+    "team": "HR Team"
+  },
+  {
+    "title": "Having trouble uploading certifications",
+    "description": "I\u2019m trying to upload my new certs for compliance tracking, but the files won\u2019t attach.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Can\u2019t nominate peer for recognition",
+    "description": "I was trying to nominate a colleague for an award but the submission form won\u2019t load.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Work anniversary not showing on profile",
+    "description": "My work anniversary just passed but it\u2019s not reflected anywhere in my profile or reports.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Onboarding checklist stuck at 80%",
+    "description": "A new hire completed all their tasks but the checklist still shows as incomplete.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Can\u2019t upload ID verification documents",
+    "description": "The upload page keeps timing out when I try to send in my documents for employment verification.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Incorrect personal details in system",
+    "description": "My middle name is spelled wrong and I can\u2019t change it myself. Can HR update it?",
+    "team": "HR Team"
+  },
+  {
+    "title": "Pension contribution amount looks wrong",
+    "description": "My latest payslip shows a different pension contribution than usual. I didn\u2019t request a change.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Unable to download payslip PDF",
+    "description": "When I click to download my payslip, nothing happens. Tried two browsers.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Still marked as contractor",
+    "description": "I\u2019ve been a full-time employee for two months now but the system still lists me as a contractor.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Can\u2019t see open roles for internal transfer",
+    "description": "I heard there are internal positions open but they don\u2019t show up in my HR portal job listings.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Need clarification on bonus calculation",
+    "description": "My bonus amount was lower than expected. Can someone explain how it was calculated?",
+    "team": "HR Team"
+  },
+  {
+    "title": "Relocation support form not submitting",
+    "description": "I filled out the relocation support request but it gives an error when I try to submit.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Can\u2019t access exit interview form",
+    "description": "I\u2019m leaving the company next week and the exit interview link in my email is broken.",
+    "team": "HR Team"
+  },
+  {
+    "title": "Payroll details incorrect after promotion",
+    "description": "I received a promotion but my pay slip doesn\u2019t reflect the updated salary.",
+    "team": "HR Team"
+  },
+  {
+    "title": "HR policy documents won\u2019t load",
+    "description": "I\u2019m trying to read the updated remote work policy, but the document link just spins.",
+    "team": "HR Team"
+  },
+  {
+    "title": "New hire hasn\u2019t received welcome email",
+    "description": "Our new team member hasn\u2019t received their HR onboarding welcome email yet. Can you resend it?",
+    "team": "HR Team"
+  },
+  {
+    "title": "Health screening registration isn\u2019t working",
+    "description": "I clicked the link to register for the health check but it takes me to a 404 page.",
+    "team": "HR Team"
+  },
+  {
+    "title": "my boss broke my keyboard",
+    "description": "my boss attacked me with a keyboard",
+    "team": "HR Team"
+  },
+  {
+    "title": "my boss broke my keyboard",
+    "description": "my boss attacked me with a keyboard",
+    "team": "HR Team"
+  },
+  {
+    "title": "my boss broke my mouse",
+    "description": "my boss attacked me with a mouse",
+    "team": "HR Team"
+  }
+]
