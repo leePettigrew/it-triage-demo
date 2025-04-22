@@ -243,5 +243,20 @@
     "title": "My laptop is really warm",
     "description": "Laptop is hot to the touch",
     "team": "Hardware Team"
+  },
+  {
+    "title": "My drive is disappearing ",
+    "description": "my hard drive keeps disappearing from my pc, it happens randomly",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "i need a headset",
+    "description": "this friday please",
+    "team": "Hardware Team"
+  },
+  {
+    "title": "My laptop no longer works",
+    "description": "i dropped my laptop on the way to work and it wont turn on",
+    "team": "Hardware Team"
   }
 ]

@@ -253,5 +253,15 @@
     "title": "my boss broke my mouse",
     "description": "my boss attacked me with a mouse",
     "team": "HR Team"
+  },
+  {
+    "title": "My coworker called me fat",
+    "description": "I dont like that, she made me cry",
+    "team": "HR Team"
+  },
+  {
+    "title": "My boss hit me",
+    "description": "i want to sue",
+    "team": "HR Team"
   }
 ]
